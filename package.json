@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@builder.io/qwik": "^1.9.0",
+    "@qwik-ui/headless": "^0.6.1",
+    "@qwikdev/astro": "^0.6.3",
+    "astro": "^4.15.9",
+    "typescript": "^5.6.2"
+  }
+}
